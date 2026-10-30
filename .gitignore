@@ -1,0 +1,5 @@
+.streamlit/secrets.toml
+index_chroma/
+__pycache__/
+*.pyc
+.venv/
